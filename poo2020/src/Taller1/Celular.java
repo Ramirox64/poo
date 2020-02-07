@@ -1,9 +1,13 @@
 package Taller1;
 
 public class Celular {
-    String tamaño;
-    String modelo;
-    String color;
-    String sistema_operativo;
-    String capacidad;
+    private int tamaño;
+    private String modelo;
+    private String color;
+    private String sistema_operativo;
+    private String capacidad;
+
+    public int tamaño(){
+        return tamaño;
+    }
 }

@@ -28,6 +28,9 @@ public class Estudiante {
     public String obtener_Edad() {
         return Edad;
     }
+    public void actualizar_nombre(){
+        this.Nombre=Nombre;
+    }
     public void actualizar_obtener_Apellidos(){
         this.Apellido=Apellido;
     }
