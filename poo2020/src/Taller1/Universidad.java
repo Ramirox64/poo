@@ -1,5 +1,7 @@
 package Taller1;
 
+import com.sun.javafx.geom.CubicApproximator;
+
 public class Universidad {
     String Nombre;
     String Ubicacion;
@@ -31,13 +33,24 @@ public class Universidad {
     }public String obtener_calificacion() {
         return calificacion;
     }
-    public String obtener_calificaccion() {
-        return calificacion;
-    }
-    public void String obtener_calificaccion() {
-        return calificacion;
-    }
+    public void String actualizar_Nombre(){
+        this.Nombre=Nombre;
 
+    }
+    public void String actualizar(){
+     this.Ubicacion= Ubicacion
+    }
+    public void String actualizar(){
 
+    }
+    public void String actualizar(){
+
+    }
+    public void String actualizar(){
+
+    }
+    public void String actualizar(){
+
+    }
 
     }
